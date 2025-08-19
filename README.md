@@ -13,7 +13,11 @@ WIP
 
 # Special Thanks
 Syndric
+
 Lucia
+
 Box
+
 Cons&Stuff Discord
+
 Cetaceaqua for creating the CHUNIFRAME
