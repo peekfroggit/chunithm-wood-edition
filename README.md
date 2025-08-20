@@ -54,12 +54,8 @@ pay money to make them for you.
 
 
 # Special Thanks
-Syndric
-
-Lucia
-
-Box
-
-Cons&Stuff Discord
-
+Syndric  
+Lucia  
+Box  
+Cons&Stuff Discord  
 Cetaceaqua for creating the [CHUNIFRAME](https://github.com/Cetaceaqua/CHUNIFRAME)
