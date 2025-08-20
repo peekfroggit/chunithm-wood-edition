@@ -38,6 +38,7 @@ that they are not comfortable with.
 # Monitor Mount
 ![chunnycab3](https://github.com/peekfroggit/chunithm_wood-edition/blob/main/pics/chunnycab3.jpg)
 I mounted the tv vesa wall mount on the back of the cab. It's pretty sturdy.
+
 Do make sure the bolts are tightened pretty well or else the monitor will tilt pretty easily, which is
 what you don't want.
 
