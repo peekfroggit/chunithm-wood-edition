@@ -47,6 +47,9 @@ what you don't want.
 The 2x2 Wood I used was a 42in long pressure treated lumber I got on home depot. Don't cheap out on getting the furring strip wood, they have horrible qa (quality assurance).
 Keep in mind the 2x2 wood actually measures around 1.75in, so do keep in mind when you are cutting and mending (probably overcut than cut exact just in case).
 
+I used osb in my build mainly because I had a lot of it lying around in my garage. I highly reccomend using something like MDF or good quality plywood, as osb is basically
+woodchips compressed into a slab and it's not fun to handle when cutting it.
+
 I used the air attachment from mon's chuni ac case for attaching the airs to the chuni frame, ideally it would be a custom cut acrylic for the airs but I'm too lazy and broke lol.
 
 I made the frame a two piece design so that I can easily transport the cab to different locations. You can follow the original aluminum profiles to make a one piece version instead.
