@@ -24,6 +24,7 @@ that they are not comfortable with.
 
 # Materials
 * 2x2 Wood
+* Plywood
 * 1in 90 degree angle brackets
 * 1in 45 degree angle brackets
 * 2in mending plates
