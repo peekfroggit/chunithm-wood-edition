@@ -35,6 +35,12 @@ that they are not comfortable with.
 * 2in caster wheels
 * 32in monitor (at least 120hz)
 
+# Monitor Mount
+![chunnycab3](https://github.com/peekfroggit/chunithm_wood-edition/blob/main/pics/chunnycab3.jpg)
+I mounted the tv vesa wall mount on the back of the cab. It's pretty sturdy.
+Do make sure the bolts are tightened pretty well or else the monitor will tilt pretty easily, which is
+what you don't want.
+
 # Notes
 The 2x2 Wood I used was a 42in long pressure treated lumber I got on home depot. Don't cheap out on getting the furring strip wood, they have horrible qa (quality assurance).
 Keep in mind the 2x2 wood actually measures around 1.75in, so do keep in mind when you are cutting and mending (probably overcut than cut exact just in case).
