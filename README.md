@@ -45,6 +45,9 @@ I didn't ask the original creator of the CHUNIFRAME for help, which kind of show
 I used a jigsaw as my cutting tool for the entire project, so my cuts are inaccurate (as some of the wood cuts were shorter than usual, as such I reccomend something like a
 chopsaw, bandsaw, or a laser cutter for accurate cuts, otherwise a jigsaw was fine if you have steady hands.
 
+# License
+[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 # Special Thanks
 Syndric
 
