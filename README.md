@@ -47,6 +47,11 @@ chopsaw, bandsaw, or a laser cutter for accurate cuts, otherwise a jigsaw was fi
 
 # License
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Just make sure you credit me and use the same BY-SA license in the case if you make a repo of this.
+
+I don't really care if you sell it to other people, just because there's people that don't have handywork skills and rather
+pay money to make them for you.
+
 
 # Special Thanks
 Syndric
