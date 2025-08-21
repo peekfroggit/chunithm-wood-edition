@@ -55,7 +55,7 @@ what you don't want.
 
 # Notes
 The 2x2 Wood I used was a 42in long pressure treated lumber I got on home depot. Don't cheap out on getting the furring strip wood, they have horrible qa (quality assurance).
-Keep in mind the 2x2 wood actually measures around 1.75in, so do keep in mind when you are cutting and mending (probably overcut than cut exact just in case).
+Keep in mind the 2x2 wood actually measures around 1.75in, as such undercutting would be better to do so you won't face any issues when mending the wood together.
 
 I used osb in my build mainly because I had a lot of it lying around in my garage. I highly reccomend using something like MDF or good quality plywood, as osb is basically
 woodchips compressed into a slab and it's not fun to handle when cutting it.
