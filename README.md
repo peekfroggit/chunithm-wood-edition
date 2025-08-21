@@ -36,6 +36,16 @@ that they are not comfortable with.
 * 2in caster wheels
 * 32in monitor (at least 120hz)
 
+# Wood Profile List
+*I am going to list these in mm due to referencing the CHUNIFRAME dimensions.*
+
+* 853mm x 2
+* 773mm x 9
+* 700mm x 4
+* 600mm x 2
+* 520mm x 4
+* 430mm x 2 (needs to be cut on 45 degree angles on both sides)
+
 # Monitor Mount
 ![chunnycab3](https://github.com/peekfroggit/chunithm_wood-edition/blob/main/pics/chunnycab3.jpg)
 I mounted the tv vesa wall mount on the back of the cab. It's pretty sturdy.
