@@ -54,8 +54,10 @@ Do make sure the bolts are tightened pretty well or else the monitor will tilt p
 what you don't want.
 
 # Airs
-I made a modified dxf of mon's air sides, i just basically extended it to cover the whole side of the cab. I haven't applied the dxf in practice yet, mainly because of how
-expensive acquiring and cutting the materials are
+I made a modified dxf of mon's air sides from the chuni ac 3d case, i just basically extended it to cover the whole side of the cab. I haven't applied the dxf in practice yet, mainly because of how
+expensive acquiring and cutting the materials are.
+
+You can get away with using the original version of the 3d printed airs but since there's only 2 screws holding it in it isn't going to be stable in the long run.
 
 # Notes
 The 2x2 Wood I used was a 42in long pressure treated lumber I got on home depot. Don't cheap out on getting the furring strip wood, they have horrible qa (quality assurance).
