@@ -11,6 +11,8 @@ This is basically a CHUNIFRAME but made out of a wood and a few modifications.
 
 # Disclaimer
 This project is for people that do not have limited to no experience with using cad software, but have a decent amount of experience woodworking.
+The chuniframe was designed for the original chunithm hardware. I am not guiding you on how to acquire them, but you can modify the design to fit
+third part chunithm controllers.
 
 This is also for people that are on a tight budget and cannot afford to buy aluminum bars or custom acrylic.
 
