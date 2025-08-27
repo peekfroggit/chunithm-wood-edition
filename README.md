@@ -64,7 +64,7 @@ You can get away with using the original version of the 3d printed airs but sinc
 
 # Notes
 The 2x2 Wood I used was a 42in long pressure treated lumber I got on home depot. Don't cheap out on getting the furring strip wood, they have horrible qa (quality assurance).
-Keep in mind the 2x2 wood actually measures around 1.75in, as such undercutting would be better to do so you won't face any issues when mending the wood together.
+Keep in mind the 2x2 wood actually measures around 38mm x 38mm, as such undercutting would be better to do so you won't face any issues when mending the wood together.
 
 I used osb in my build mainly because I had a lot of it lying around in my garage. I highly reccomend using something like MDF or good quality plywood, as osb is basically
 woodchips compressed into a slab and it's not fun to handle when cutting it.
