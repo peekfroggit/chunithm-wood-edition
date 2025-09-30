@@ -76,6 +76,11 @@ I didn't ask the original creator of the CHUNIFRAME for help, which kind of show
 I used a jigsaw as my cutting tool for the entire project, so my cuts are inaccurate (as some of the wood cuts were shorter than usual, as such I reccomend something like a
 chopsaw, bandsaw, or a laser cutter for accurate cuts, otherwise a jigsaw was fine if you have steady hands.
 
+# Future Plans
+* Add Acrylic Air Sides
+* Improve stability (2 piece setup causes wobble)
+* Add cable management
+
 # License
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 Just make sure you credit me and use the same BY-SA license in the case if you make a repo of this.
