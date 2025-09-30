@@ -80,6 +80,7 @@ chopsaw, bandsaw, or a laser cutter for accurate cuts, otherwise a jigsaw was fi
 * Add Acrylic Air Sides
 * Improve stability (2 piece setup causes wobble)
 * Add cable management
+* Make side covers for marquee banners and stuff idklol
 
 # License
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
