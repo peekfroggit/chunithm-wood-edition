@@ -21,7 +21,7 @@ Material buying is for people that want to buy materials through amazon or their
 that they are not comfortable with.
 
 # Design
-
+![chunny full cab](https://github.com/peekfroggit/chunithm-wood-edition/blob/main/pics/chunny%20full%20cab.png)
 
 # Tools
 * Drill
