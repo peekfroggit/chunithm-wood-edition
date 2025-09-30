@@ -20,6 +20,9 @@ This is also for people that are on a tight budget and cannot afford to buy alum
 Material buying is for people that want to buy materials through amazon or their local hardware store without the hassle of buying from sites
 that they are not comfortable with.
 
+# Design
+
+
 # Tools
 * Drill
 * Jigsaw
